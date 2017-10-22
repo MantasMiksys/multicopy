@@ -3,8 +3,8 @@ multicopy
 ===============================
 
 
-.. image:: https://img.shields.io/travis/mantasmiksys/multicopy.svg
-        :target: https://travis-ci.org/mantasmiksys/multicopy
+.. image:: https://img.shields.io/travis/MantasMiksys/multicopy.svg
+        :target: https://travis-ci.org/MantasMiksys/multicopy
 
 
 An application for performing multiple copies
